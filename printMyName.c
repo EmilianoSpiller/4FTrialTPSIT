@@ -6,4 +6,5 @@ int main() {
   printf("Niccolò Cherubin");
   printf("Osti Leonardo\n");
   printf("Targa Marcello\n");
+  printf("Hu Yongkang\n");
 }
